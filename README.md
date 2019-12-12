@@ -1,4 +1,7 @@
-
+Чтобы запустить приложение, нужно, находясь в директории проекта, запустить в консоли следующие команды:
+### `json-server src/posts.json`
+### `npm start`
+### `npm i react-router-dom -save`
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
